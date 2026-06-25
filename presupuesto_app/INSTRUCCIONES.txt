@@ -1,0 +1,58 @@
+========================================
+  SISPIC - App de Presupuestos CCTV
+========================================
+
+CÓMO USAR LA APLICACIÓN:
+========================
+
+OPCIÓN 1 - Abrir directamente en el navegador:
+  - Abra el archivo index.html en Chrome/Firefox de su Android
+  - La app funciona sin internet una vez cargada
+
+OPCIÓN 2 - Instalar como APK/App en Android:
+  1. Suba los archivos a un hosting web (o use GitHub Pages gratis)
+  2. Abra la URL en Chrome para Android
+  3. Chrome mostrará "Agregar a pantalla de inicio"
+  4. Toque instalar → La app queda instalada como APK nativa
+
+OPCIÓN 3 - Hosting gratuito con GitHub Pages:
+  1. Vaya a github.com y cree una cuenta gratuita
+  2. Cree un nuevo repositorio público
+  3. Suba todos los archivos de esta carpeta
+  4. En Settings > Pages, active GitHub Pages
+  5. Su URL será: https://su-usuario.github.io/nombre-repo/
+  6. Abra esa URL en Chrome Android e instale
+
+FUNCIONALIDADES:
+===============
+✅ Catálogo de productos (ya viene con 15 productos CCTV)
+✅ Agregar/editar/eliminar productos del catálogo
+✅ Crear presupuestos con datos del cliente
+✅ Agregar múltiples productos por presupuesto
+✅ Ajustar cantidades y precios por ítem
+✅ Descuentos en porcentaje
+✅ Soporte Guaraníes / Dólares / Reales
+✅ Generar PDF profesional con logo SISPIC
+✅ PDF incluye todos sus datos de técnico
+✅ Historial de presupuestos guardado localmente
+✅ Funciona sin internet (modo offline)
+✅ Instalable como app en Android
+
+DATOS DEL TÉCNICO EN EL PDF:
+============================
+RUC: 5392240-9
+Lic. Pedro Javier Figueredo
+Cel: (0986)530.188
+Dirección: Calle Parapiti a 30 metros del Juzgado
+
+ARCHIVOS INCLUIDOS:
+==================
+- index.html    (aplicación principal)
+- manifest.json (configuración PWA para Android)
+- sw.js         (cache offline)
+- icon-192.png  (ícono app)
+- icon-512.png  (ícono app grande)
+- INSTRUCCIONES.txt (este archivo)
+
+Desarrollado por SISPIC developers
+========================================
